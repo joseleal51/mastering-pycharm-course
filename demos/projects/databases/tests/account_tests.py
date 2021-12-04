@@ -8,7 +8,7 @@ import unittest.mock
 
 def test_example():
     print("Test example...")
-    assert 1 + 2 == 3
+    assert 1 == 1
 
 
 def test_vm_register_validation_when_valid():
